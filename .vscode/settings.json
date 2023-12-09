@@ -1,0 +1,13 @@
+{
+    "outline.showArrays": false,
+    "outline.showFields": false,
+    "outline.showKeys": false,
+    "outline.showNull": false,
+    "outline.showNumbers": false,
+    "outline.showObjects": false,
+    "outline.showOperators": false,
+    "outline.showProperties": false,
+    "outline.showStrings": false,
+    "outline.showTypeParameters": false,
+    "outline.showVariables": false
+}
