@@ -10,7 +10,7 @@ Tested only on Chrome.
 
 Features:
 
-- Game objects and Game Object hierarchy
+- Game objects
 - Rudimentary collision detection
 - Explicit WebGL operations in GameObjects
 
